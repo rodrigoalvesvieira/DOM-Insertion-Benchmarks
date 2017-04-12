@@ -1,0 +1,10 @@
+.grid {
+    display: flex;
+    flex-direction: row;
+    width: 80%;
+    align-items: center;
+}
+
+.grid div {
+    width: 33.33%;
+}
